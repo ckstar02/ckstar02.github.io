@@ -1,0 +1,31 @@
+# Charisse Ramsarran Portfolio
+
+Welcome to Charisse Ramsarran's portfolio showcasing various web development projects and skills.
+
+![Portfolio Screenshot](placeholder-screenshot.png)
+
+## Description
+
+This portfolio web application serves as a showcase of Charisse Ramsarran's work samples, designed to highlight her skills and projects. It includes sections such as:
+- **About**: Personal introduction and background.
+- **Work**: Showcase of deployed applications and projects.
+
+## Technologies Used
+
+- HTML5
+- CSS3 (Flexbox, CSS Variables)
+- JavaScript/jQuery (for smooth scrolling)
+- Placeholder images and text are used until actual projects are developed.
+
+## Features
+
+- Responsive layout that adapts to various screen sizes.
+- Smooth scrolling navigation for a seamless user experience.
+- Clickable project images that link to deployed applications.
+
+## Deployment
+
+https://ckstar02.github.io/
+
+
+© 2024 Charisse Ramsarran. All rights reserved.
